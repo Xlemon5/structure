@@ -1,3 +1,5 @@
+// https://site.ada.edu.az/~medv/acm/Docs%20e-olimp/Volume%2016/1591.htm
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
